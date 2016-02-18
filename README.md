@@ -1,4 +1,4 @@
-SCINDER
+# SCINDER
 
 Javascript library allowing to retrieve, combine and rank various information from the web
 
@@ -18,6 +18,8 @@ https://pubchem.ncbi.nlm.nih.gov/pug_rest/PUG_REST.html#_Toc409516770
 https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/fastsimilarity_2d/smiles/CCCCC/property/MolecularFormula,InChI,CanonicalSMILES,IUPACName/JSON
 
 ## ChemSpider
+
+Seems very very slow ... Should check how to make a query in a reasonnable time
 
 http://www.chemspider.com/JSON.ashx
 
